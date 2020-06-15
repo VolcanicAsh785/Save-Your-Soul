@@ -29,6 +29,16 @@ https://www.youtube.com/watch?v=eX1TjYv3dfc - (Victory)
 
 https://www.youtube.com/watch?v=xy_NKN75Jhw - (Instrucions)
 
+**How To Run**
+
+In order to run, please open the Blender Game Engine Folder
+
+Navigate to the Blender.exe file and run it
+
+Next click File -> Open -> Save Your Soul.blend
+
+press P to play!
+
 Anyways, Hope you have some fun playing Save Your Soul! :)
 
 -VolcanicAsh785 (Aidan)
