@@ -29,6 +29,14 @@ https://www.youtube.com/watch?v=eX1TjYv3dfc - (Victory)
 
 https://www.youtube.com/watch?v=xy_NKN75Jhw - (Instrucions)
 
+**How To Download**
+
+Since GitHub allows files of 25mb or less, I ddecided to use Mega instead
+
+Please Navigate to https://mega.nz/file/dIIEXCTD#ChvdXIZW72o72x34DdAoP8URnmp4rLwKqlxNbYX4o1o and download Save Your Soul.zip
+
+If you have a Mac computer or a 32-bit Windows computer, please download UPBGE from https://upbge.org/
+
 **How To Run**
 
 In order to run, please open the Blender Game Engine Folder
